@@ -1,0 +1,3 @@
+{
+  "extends": "@alinea/config/tsconfig.base.json"
+}
