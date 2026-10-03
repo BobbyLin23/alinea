@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Toolchains, dependencies, and local env defaults are restored from the snapshot.
+# This repository needs no per-thread authentication or backing-service repair.

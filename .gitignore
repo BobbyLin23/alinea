@@ -56,3 +56,6 @@ coverage
 .cache
 tmp
 temp
+
+# Orb portal metadata
+.amp/portals/*
